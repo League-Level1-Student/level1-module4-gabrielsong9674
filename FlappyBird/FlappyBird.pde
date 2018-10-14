@@ -5,7 +5,7 @@ float gravity = .1;
 int pipeX = 0;
 int upperPipeY = 0;
 int lowerPipeY;
-int upperPipeHeight = (int) random(100, 400);
+int upperPipeHeight = (int) random(100, 200);
 int lowerPipeHeight = 5000;
 int pipeGap = 200;
 int pipeWidth = 50;
